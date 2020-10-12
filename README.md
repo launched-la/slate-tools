@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40shopify%2Fslate-tools.svg)](https://badge.fury.io/js/%40shopify%2Fslate-tools)
+
 # @shopify/slate-tools
 
-This repo has been deprecated. Please open any new issues or PRs in the [`Shopify/slate`](https://github.com/Shopify/slate) repo.
+Slate Tools provides a sophisticated development experience enabling users to build top-notch Shopify themes.
