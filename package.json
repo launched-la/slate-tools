@@ -96,7 +96,7 @@
     "@shopify/slate-env": "1.0.0-beta.16",
     "@shopify/slate-liquid-asset-loader": "1.0.0-beta.11",
     "@shopify/slate-sections-plugin": "1.0.0-beta.19",
-    "@shopify/slate-sync": "1.0.0-beta.16",
+    "@shopify/slate-sync": "launched-la/slate-sync",
     "@shopify/slate-tag-webpack-plugin": "1.0.0-beta.14",
     "@shopify/slate-translations": "1.0.0-beta.19",
     "@shopify/theme-lint": "^2.0.0",
