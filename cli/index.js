@@ -23,7 +23,7 @@ let result;
 async function init() {
   let slateConfig;
 
-  await analytics.init();
+  // await analytics.init();
 
   // Convert user config to JSON string so it can be sent in analytics. Make sure
   // we catch any errors while converting, such as converting a circular object
@@ -34,10 +34,12 @@ async function init() {
     slateConfig = JSON.stringify({error: error.message});
   }
 
+  /*
   analytics.event('slate-tools:cli:start', {
     slateConfig,
     version: packageJson.version,
   });
+  */
 
   switch (script) {
     case 'build':
