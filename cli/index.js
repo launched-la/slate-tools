@@ -41,8 +41,6 @@ async function init() {
   });
   */
 
-console.log('args', args)
-
   switch (script) {
     case 'build':
     case 'deploy':
